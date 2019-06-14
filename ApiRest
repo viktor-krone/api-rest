@@ -1,4 +1,4 @@
-class ApiSoftnet{
+class ApiRest{
 
 	/**
 	 * autenticación de acceso básica (Basic Auth)
